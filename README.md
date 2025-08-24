@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Alireza Fallahnejad</h1>
-<h3 align="center">A passionate ML PhD researcher</h3>
+<h1 align="center">Hi 👋, I'm Alireza</h1>
+<h3 align="center">🎓 PhD Candidate in Scientific Machine Learning (SciML) | Solid Mechanics | Physics-Informed ML</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alireza-fllh&label=Profile%20views&color=0e75b6&style=flat" alt="alireza-fllh" /> </p>
+
+I study physics-informed neural networks (PINNs), finite element methods (FEM), and hybrid approaches for computational material modeling and solid mechanics.  
+I’m passionate about combining **mechanics, mathematics, and machine learning** to create robust and efficient models.
+
+
 
 - 🔭 I’m currently working on [ML applications in material modeling](https://depmat.nl/)
 
