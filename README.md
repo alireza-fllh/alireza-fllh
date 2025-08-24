@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alireza</h1>
-<h3 align="center">🎓 PhD Candidate in Scientific Machine Learning (SciML) | Solid Mechanics | Physics-Informed ML</h3>
+<h3 align="center">🎓 PhD Candidate in Scientific Machine Learning (SciML) | Solid Mechanics </h3>
 
 
 I study physics-informed neural networks (PINNs), finite element methods (FEM), and hybrid approaches for computational material modeling and solid mechanics.  
