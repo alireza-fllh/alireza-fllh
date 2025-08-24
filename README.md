@@ -3,7 +3,7 @@
 
 
 I study physics-informed neural networks (PINNs), finite element methods (FEM), and hybrid approaches for computational material modeling and solid mechanics.  
-I’m passionate about combining **mechanics, mathematics, and machine learning** to create robust and efficient models.
+I’m passionate about combining **mechanics and machine learning** to create robust and efficient models.
 
 
 
