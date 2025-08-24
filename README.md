@@ -7,7 +7,7 @@ I’m passionate about combining **mechanics and machine learning** to create ro
 
 
 
-- 🔭 I’m currently working on [ML applications in material modeling](https://depmat.nl/)
+- 🔭 I’m currently working on [ML applications in material modeling](https://www.utwente.nl/en/et/ms3/research-chairs/nsm/research/depmat_material/)
 
 - 📫 How to reach me **a.fallahnejad@utwente.nl**
 
